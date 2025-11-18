@@ -13,8 +13,8 @@
     { "src": "/taufiqpass", "dest": "/taufiqpass.js" },
     { "src": "/hanif", "dest": "/hanif.js" },
     { "src": "/hanifpass", "dest": "/hanifpass.js" },
-    { "src": "/gnd", "dest": "/gnd.js" },
-    { "src": "/gndpass", "dest": "/gndpass.js" },
+    { "src": "/ayan", "dest": "/ayan.js" },
+    { "src": "/ayanpass", "dest": "/ayanpass.js" },
     { "src": "/asifpass", "dest": "/asifpass.js" }
   ]
 }
