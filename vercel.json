@@ -4,17 +4,17 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/farman", "dest": "/farman.js" },
-        { "src": "/farmanpass", "dest": "/farmanpass.js" },
-    { "src": "/salman", "dest": "/salman.js" },
-{ "src": "/salmanpass", "dest": "/salmanpass.js" },
-    { "src": "/kamil", "dest": "/kamil.js" },
-    { "src": "/kamilpass", "dest": "/kamilpass.js" },
-    { "src": "/samand", "dest": "/samand.js" },
-    { "src": "/samandpass", "dest": "/samandpass.js" },
-    { "src": "/maqbool", "dest": "/maqbool.js" },
-    { "src": "/maqboolpasss", "dest": "/maqboolpass.js" },
-    { "src": "/Qayoom", "dest": "/Qayoom.js" },
-    { "src": "/Qayoompass", "dest": "/Qayoompass.js" }
+    { "src": "/tanveer", "dest": "/tanveer.js" },
+        { "src": "/tanveerpass", "dest": "/tanveerpass.js" },
+    { "src": "/Imran", "dest": "/Imran.js" },
+{ "src": "/Imranpass", "dest": "/Imranpass.js" },
+    { "src": "/Lala", "dest": "/Lala.js" },
+    { "src": "/Lalapass", "dest": "/Lalapass.js" },
+    { "src": "/Jameel", "dest": "/Jameel.js" },
+    
+    { "src": "/Jameelpass", "dest": "/Jameelpass.js" },
+    { "src": "/Mamtaz", "dest": "/Mamtaz.js" },
+    { "src": "/Mamtazpasss", "dest": "/Mamtazpass.js" },
+    
   ]
 }
